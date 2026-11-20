@@ -1,0 +1,13 @@
+{
+    "experiment": "Pairwise Masked Secure Aggregation Simulation",
+    "number_of_clients": 23,
+    "total_client_samples": 1111,
+    "number_of_pairwise_masks": 253,
+    "update_dimension": 34,
+    "mask_scale": 1.0,
+    "maximum_absolute_difference": 8.796782746678389e-15,
+    "mean_absolute_difference": 2.630580598122065e-15,
+    "verification_passed": true,
+    "aggregation_method": "Sample-count weighted FedAvg",
+    "security_scope": "Educational simulation of additive pairwise masking. Not a production cryptographic secure aggregation protocol."
+}

@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+backup_before_comparison/
+runs/
+.ipynb_checkpoints/
+
+*.h5
+*.pt
+*.pth
+*.pkl
+data/train.csv
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+data/train.csv
+
+# Model files
+*.keras
+*.h5
+*.pt
+*.pth
+*.tflite
+
+# Experiment outputs
+runs/
+backup_before_comparison/
+lora_experiment/results/
+edge_deployment/results/
+privacy_attacks/results/
+explainability/results/
+
+# Keep source code and requirements
+.env
+.venv/
+venv/
